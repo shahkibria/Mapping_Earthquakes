@@ -33,7 +33,7 @@ let map = L.map('mapid', {
 L.control.layers(baseMaps).addTo(map);
 
 // Accessing the Toronto GeoJSON URL
-let torontoHoods = "https://raw.githubusercontent.com/shahkibria/Mapping_Earthquakes/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json" 
+let torontoHoods = "https://raw.githubusercontent.com/shahkibria/Mapping_Earthquakes/main/Training/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json" 
 
 var myStyle = {
     color: "#00004c",

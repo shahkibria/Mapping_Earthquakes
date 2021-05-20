@@ -33,7 +33,7 @@ let map = L.map('mapid', {
 L.control.layers(baseMaps).addTo(map);
 
 // Accessing the airport GeoJSON URL
-let airportData = "https://raw.githubusercontent.com/shahkibria/Mapping_Earthquakes/main/Mapping_GeoJSON/majorAirports.json" 
+let airportData = "https://raw.githubusercontent.com/shahkibria/Mapping_Earthquakes/main/Training/Mapping_GeoJSON/majorAirports.json" 
 
 // Grabbing our GeoJSON data with Pop Up.
 d3.json(airportData).then(function(data) {

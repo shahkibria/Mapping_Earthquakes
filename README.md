@@ -19,5 +19,5 @@ Our interactive map contains three layers: streets, satellite and dark. On top o
 ![](https://github.com/shahkibria/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Screenshots/Dark%20View.png)
 
 ### Dark view with earthquakes toggled off.
-![](https://github.com/shahkibria/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Screenshots/Dark%20View.png)
+![](https://github.com/shahkibria/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Screenshots/Dark%20View%20with%20only%20major%20earthquakes%20and%20techtonic%20plates.png)
 
